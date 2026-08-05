@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Exemplo_01/Exemplo_01.csproj" />
+  <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="Print/Formatar.Saida.csproj" />
+</Solution>

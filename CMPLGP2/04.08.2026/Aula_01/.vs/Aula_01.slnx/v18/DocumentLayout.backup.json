@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\2_SEMESTRE_IF\\CMPLGP2\\04.08.2026\\Aula_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7F54C5-614E-4672-AD05-1EF9494E5415}|Print\\Print.csproj|c:\\users\\aluno\\desktop\\2_semestre_if\\cmplgp2\\04.08.2026\\aula_01\\print\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7F54C5-614E-4672-AD05-1EF9494E5415}|Print\\Print.csproj|solutionrelative:print\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Formatar.Saida||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C69E8C-5C6B-4A68-8337-51DC901A1204}|Exemplo_01\\Exemplo_01.csproj|c:\\users\\aluno\\desktop\\2_semestre_if\\cmplgp2\\04.08.2026\\aula_01\\exemplo_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C69E8C-5C6B-4A68-8337-51DC901A1204}|Exemplo_01\\Exemplo_01.csproj|solutionrelative:exemplo_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F006BA-49F2-489B-B76C-6D973C638F37}|HelloWorld\\HelloWorld.csproj|c:\\users\\aluno\\desktop\\2_semestre_if\\cmplgp2\\04.08.2026\\aula_01\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F006BA-49F2-489B-B76C-6D973C638F37}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7F54C5-614E-4672-AD05-1EF9494E5415}|Print\\Print.csproj|c:\\users\\aluno\\desktop\\2_semestre_if\\cmplgp2\\04.08.2026\\aula_01\\print\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formatar.Saida",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\2_SEMESTRE_IF\\CMPLGP2\\04.08.2026\\Aula_01\\Print\\Formatar.Saida.csproj",
+              "RelativeDocumentMoniker": "Print\\Formatar.Saida.csproj",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\2_SEMESTRE_IF\\CMPLGP2\\04.08.2026\\Aula_01\\Print\\Formatar.Saida.csproj",
+              "RelativeToolTip": "Print\\Formatar.Saida.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-05T01:01:52.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\2_SEMESTRE_IF\\CMPLGP2\\04.08.2026\\Aula_01\\Print\\Program.cs",
+              "RelativeDocumentMoniker": "Print\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\2_SEMESTRE_IF\\CMPLGP2\\04.08.2026\\Aula_01\\Print\\Program.cs*",
+              "RelativeToolTip": "Print\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T00:59:05.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\2_SEMESTRE_IF\\CMPLGP2\\04.08.2026\\Aula_01\\HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\2_SEMESTRE_IF\\CMPLGP2\\04.08.2026\\Aula_01\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "HelloWorld\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T00:17:34.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\2_SEMESTRE_IF\\CMPLGP2\\04.08.2026\\Aula_01\\Exemplo_01\\Program.cs",
+              "RelativeDocumentMoniker": "Exemplo_01\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\2_SEMESTRE_IF\\CMPLGP2\\04.08.2026\\Aula_01\\Exemplo_01\\Program.cs",
+              "RelativeToolTip": "Exemplo_01\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T00:17:30.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

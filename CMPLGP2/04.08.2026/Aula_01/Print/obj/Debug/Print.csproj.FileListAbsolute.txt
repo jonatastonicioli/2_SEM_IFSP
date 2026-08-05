@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\bin\Debug\Print.exe.config
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\bin\Debug\Print.exe
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\bin\Debug\Print.pdb
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\obj\Debug\Print.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\obj\Debug\Print.exe
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\obj\Debug\Print.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\bin\Debug\Formatar.Saida.exe.config
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\bin\Debug\Formatar.Saida.exe
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\bin\Debug\Formatar.Saida.pdb
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\obj\Debug\Formatar.Saida.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\obj\Debug\Formatar.Saida.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\obj\Debug\Formatar.Saida.exe
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\Print\obj\Debug\Formatar.Saida.pdb

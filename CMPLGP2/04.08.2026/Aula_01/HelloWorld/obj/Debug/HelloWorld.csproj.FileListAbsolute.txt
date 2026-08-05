@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Aluno\Desktop\2_SEMESTRE_IF\CMPLGP2\04.08.2026\Aula_01\HelloWorld\obj\Debug\HelloWorld.pdb
