@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\18.08.2026\Aula18.08.2026\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\Aluno\Desktop\18.08.2026\Aula18.08.2026\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\Aluno\Desktop\18.08.2026\Aula18.08.2026\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\Aluno\Desktop\18.08.2026\Aula18.08.2026\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\18.08.2026\Aula18.08.2026\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\18.08.2026\Aula18.08.2026\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\Aluno\Desktop\18.08.2026\Aula18.08.2026\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
