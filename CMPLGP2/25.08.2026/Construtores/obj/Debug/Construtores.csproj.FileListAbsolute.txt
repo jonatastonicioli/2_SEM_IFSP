@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\25.08.2026\Construtores\obj\Debug\Construtores.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\25.08.2026\Construtores\obj\Debug\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\25.08.2026\Construtores\bin\Debug\Construtores.exe.config
+C:\Users\Aluno\Desktop\25.08.2026\Construtores\bin\Debug\Construtores.exe
+C:\Users\Aluno\Desktop\25.08.2026\Construtores\bin\Debug\Construtores.pdb
+C:\Users\Aluno\Desktop\25.08.2026\Construtores\obj\Debug\Construtores.exe
+C:\Users\Aluno\Desktop\25.08.2026\Construtores\obj\Debug\Construtores.pdb
