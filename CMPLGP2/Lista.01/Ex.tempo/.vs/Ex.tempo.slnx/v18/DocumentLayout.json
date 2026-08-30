@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\2_SEM_IFSP\\CMPLGP2\\Lista.01\\Ex.tempo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C3B465A-D2FF-4F48-8E28-BECFD94D82F1}|Ex.tempo\\Ex.tempo.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\2_sem_ifsp\\cmplgp2\\lista.01\\ex.tempo\\ex.tempo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C3B465A-D2FF-4F48-8E28-BECFD94D82F1}|Ex.tempo\\Ex.tempo.csproj|solutionrelative:ex.tempo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C3B465A-D2FF-4F48-8E28-BECFD94D82F1}|Ex.tempo\\Ex.tempo.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\2_sem_ifsp\\cmplgp2\\lista.01\\ex.tempo\\ex.tempo\\tempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C3B465A-D2FF-4F48-8E28-BECFD94D82F1}|Ex.tempo\\Ex.tempo.csproj|solutionrelative:ex.tempo\\tempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3B465A-D2FF-4F48-8E28-BECFD94D82F1}|Ex.tempo\\Ex.tempo.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\2_sem_ifsp\\cmplgp2\\lista.01\\ex.tempo\\ex.tempo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3B465A-D2FF-4F48-8E28-BECFD94D82F1}|Ex.tempo\\Ex.tempo.csproj|solutionrelative:ex.tempo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,13 +26,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\2_SEM_IFSP\\CMPLGP2\\Lista.01\\Ex.tempo\\Ex.tempo\\Program.cs",
               "RelativeDocumentMoniker": "Ex.tempo\\Program.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\2_SEM_IFSP\\CMPLGP2\\Lista.01\\Ex.tempo\\Ex.tempo\\Program.cs",
               "RelativeToolTip": "Ex.tempo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-29T20:53:23.274Z",
               "EditorCaption": ""
@@ -41,17 +41,21 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Tempo.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\2_SEM_IFSP\\CMPLGP2\\Lista.01\\Ex.tempo\\Ex.tempo\\Tempo.cs",
               "RelativeDocumentMoniker": "Ex.tempo\\Tempo.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\2_SEM_IFSP\\CMPLGP2\\Lista.01\\Ex.tempo\\Ex.tempo\\Tempo.cs",
               "RelativeToolTip": "Ex.tempo\\Tempo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwF8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-29T20:53:46.616Z",
               "EditorCaption": ""
