@@ -1,0 +1,7 @@
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\Simulacao.Abajur.Lampada\Simulacao.Abajur.Lampada\obj\Debug\Simulacao.Abajur.Lampada.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\Simulacao.Abajur.Lampada\Simulacao.Abajur.Lampada\obj\Debug\Simulacao.Abajur.Lampada.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\Simulacao.Abajur.Lampada\Simulacao.Abajur.Lampada\bin\Debug\Simulacao.Abajur.Lampada.exe.config
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\Simulacao.Abajur.Lampada\Simulacao.Abajur.Lampada\bin\Debug\Simulacao.Abajur.Lampada.exe
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\Simulacao.Abajur.Lampada\Simulacao.Abajur.Lampada\bin\Debug\Simulacao.Abajur.Lampada.pdb
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\Simulacao.Abajur.Lampada\Simulacao.Abajur.Lampada\obj\Debug\Simulacao.Abajur.Lampada.exe
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\Simulacao.Abajur.Lampada\Simulacao.Abajur.Lampada\obj\Debug\Simulacao.Abajur.Lampada.pdb

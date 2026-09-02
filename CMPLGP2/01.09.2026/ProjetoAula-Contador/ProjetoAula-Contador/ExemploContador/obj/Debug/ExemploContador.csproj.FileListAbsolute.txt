@@ -1,0 +1,7 @@
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\ProjetoAula-Contador\ProjetoAula-Contador\ExemploContador\bin\Debug\ExemploContador.exe.config
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\ProjetoAula-Contador\ProjetoAula-Contador\ExemploContador\bin\Debug\ExemploContador.exe
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\ProjetoAula-Contador\ProjetoAula-Contador\ExemploContador\bin\Debug\ExemploContador.pdb
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\ProjetoAula-Contador\ProjetoAula-Contador\ExemploContador\obj\Debug\ExemploContador.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\ProjetoAula-Contador\ProjetoAula-Contador\ExemploContador\obj\Debug\ExemploContador.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\ProjetoAula-Contador\ProjetoAula-Contador\ExemploContador\obj\Debug\ExemploContador.exe
+C:\Users\Aluno\Downloads\2_SEM_IFSP\CMPLGP2\01.09.2026\ProjetoAula-Contador\ProjetoAula-Contador\ExemploContador\obj\Debug\ExemploContador.pdb

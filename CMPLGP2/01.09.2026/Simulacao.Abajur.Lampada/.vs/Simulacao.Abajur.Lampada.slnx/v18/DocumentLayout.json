@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\01.09.2026\\Simulacao.Abajur.Lampada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05715802-B7DE-44C4-992B-667D0FF92FB2}|Simulacao.Abajur.Lampada\\Simulacao.Abajur.Lampada.csproj|c:\\users\\aluno\\downloads\\2_sem_ifsp\\cmplgp2\\01.09.2026\\simulacao.abajur.lampada\\simulacao.abajur.lampada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715802-B7DE-44C4-992B-667D0FF92FB2}|Simulacao.Abajur.Lampada\\Simulacao.Abajur.Lampada.csproj|solutionrelative:simulacao.abajur.lampada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715802-B7DE-44C4-992B-667D0FF92FB2}|Simulacao.Abajur.Lampada\\Simulacao.Abajur.Lampada.csproj|c:\\users\\aluno\\downloads\\2_sem_ifsp\\cmplgp2\\01.09.2026\\simulacao.abajur.lampada\\simulacao.abajur.lampada\\abajur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715802-B7DE-44C4-992B-667D0FF92FB2}|Simulacao.Abajur.Lampada\\Simulacao.Abajur.Lampada.csproj|solutionrelative:simulacao.abajur.lampada\\abajur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715802-B7DE-44C4-992B-667D0FF92FB2}|Simulacao.Abajur.Lampada\\Simulacao.Abajur.Lampada.csproj|c:\\users\\aluno\\downloads\\2_sem_ifsp\\cmplgp2\\01.09.2026\\simulacao.abajur.lampada\\simulacao.abajur.lampada\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715802-B7DE-44C4-992B-667D0FF92FB2}|Simulacao.Abajur.Lampada\\Simulacao.Abajur.Lampada.csproj|solutionrelative:simulacao.abajur.lampada\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\01.09.2026\\Simulacao.Abajur.Lampada\\Simulacao.Abajur.Lampada\\Program.cs",
+              "RelativeDocumentMoniker": "Simulacao.Abajur.Lampada\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\01.09.2026\\Simulacao.Abajur.Lampada\\Simulacao.Abajur.Lampada\\Program.cs",
+              "RelativeToolTip": "Simulacao.Abajur.Lampada\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:20:54.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lampada.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\01.09.2026\\Simulacao.Abajur.Lampada\\Simulacao.Abajur.Lampada\\Lampada.cs",
+              "RelativeDocumentMoniker": "Simulacao.Abajur.Lampada\\Lampada.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\01.09.2026\\Simulacao.Abajur.Lampada\\Simulacao.Abajur.Lampada\\Lampada.cs",
+              "RelativeToolTip": "Simulacao.Abajur.Lampada\\Lampada.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:27:04.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "abajur.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\01.09.2026\\Simulacao.Abajur.Lampada\\Simulacao.Abajur.Lampada\\abajur.cs",
+              "RelativeDocumentMoniker": "Simulacao.Abajur.Lampada\\abajur.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\01.09.2026\\Simulacao.Abajur.Lampada\\Simulacao.Abajur.Lampada\\abajur.cs",
+              "RelativeToolTip": "Simulacao.Abajur.Lampada\\abajur.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T00:13:19.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
