@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.02\\exercicioReferenciaAbajurLampada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2AB70-6EAC-457F-A0C2-72F92DB0E98D}|exercicioReferenciaAbajurLampada\\exercicioReferenciaAbajurLampada.csproj|c:\\users\\lucas\\desktop\\2_sem_ifsp\\cmplgp2\\lista.02\\exercicioreferenciaabajurlampada\\exercicioreferenciaabajurlampada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC2AB70-6EAC-457F-A0C2-72F92DB0E98D}|exercicioReferenciaAbajurLampada\\exercicioReferenciaAbajurLampada.csproj|solutionrelative:exercicioreferenciaabajurlampada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2AB70-6EAC-457F-A0C2-72F92DB0E98D}|exercicioReferenciaAbajurLampada\\exercicioReferenciaAbajurLampada.csproj|c:\\users\\lucas\\desktop\\2_sem_ifsp\\cmplgp2\\lista.02\\exercicioreferenciaabajurlampada\\exercicioreferenciaabajurlampada\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC2AB70-6EAC-457F-A0C2-72F92DB0E98D}|exercicioReferenciaAbajurLampada\\exercicioReferenciaAbajurLampada.csproj|solutionrelative:exercicioreferenciaabajurlampada\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2AB70-6EAC-457F-A0C2-72F92DB0E98D}|exercicioReferenciaAbajurLampada\\exercicioReferenciaAbajurLampada.csproj|c:\\users\\lucas\\desktop\\2_sem_ifsp\\cmplgp2\\lista.02\\exercicioreferenciaabajurlampada\\exercicioreferenciaabajurlampada\\abajur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC2AB70-6EAC-457F-A0C2-72F92DB0E98D}|exercicioReferenciaAbajurLampada\\exercicioReferenciaAbajurLampada.csproj|solutionrelative:exercicioreferenciaabajurlampada\\abajur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Abajur.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.02\\exercicioReferenciaAbajurLampada\\exercicioReferenciaAbajurLampada\\Abajur.cs",
+              "RelativeDocumentMoniker": "exercicioReferenciaAbajurLampada\\Abajur.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.02\\exercicioReferenciaAbajurLampada\\exercicioReferenciaAbajurLampada\\Abajur.cs",
+              "RelativeToolTip": "exercicioReferenciaAbajurLampada\\Abajur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T17:54:39.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lampada.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.02\\exercicioReferenciaAbajurLampada\\exercicioReferenciaAbajurLampada\\Lampada.cs",
+              "RelativeDocumentMoniker": "exercicioReferenciaAbajurLampada\\Lampada.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.02\\exercicioReferenciaAbajurLampada\\exercicioReferenciaAbajurLampada\\Lampada.cs",
+              "RelativeToolTip": "exercicioReferenciaAbajurLampada\\Lampada.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T17:48:52.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.02\\exercicioReferenciaAbajurLampada\\exercicioReferenciaAbajurLampada\\Program.cs",
+              "RelativeDocumentMoniker": "exercicioReferenciaAbajurLampada\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.02\\exercicioReferenciaAbajurLampada\\exercicioReferenciaAbajurLampada\\Program.cs",
+              "RelativeToolTip": "exercicioReferenciaAbajurLampada\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T17:47:59.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

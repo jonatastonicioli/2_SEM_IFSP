@@ -1,0 +1,7 @@
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.02\exercicioReferenciaAbajurLampada\exercicioReferenciaAbajurLampada\bin\Debug\exercicioReferenciaAbajurLampada.exe.config
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.02\exercicioReferenciaAbajurLampada\exercicioReferenciaAbajurLampada\bin\Debug\exercicioReferenciaAbajurLampada.exe
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.02\exercicioReferenciaAbajurLampada\exercicioReferenciaAbajurLampada\bin\Debug\exercicioReferenciaAbajurLampada.pdb
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.02\exercicioReferenciaAbajurLampada\exercicioReferenciaAbajurLampada\obj\Debug\exercicioReferenciaAbajurLampada.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.02\exercicioReferenciaAbajurLampada\exercicioReferenciaAbajurLampada\obj\Debug\exercicioReferenciaAbajurLampada.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.02\exercicioReferenciaAbajurLampada\exercicioReferenciaAbajurLampada\obj\Debug\exercicioReferenciaAbajurLampada.exe
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.02\exercicioReferenciaAbajurLampada\exercicioReferenciaAbajurLampada\obj\Debug\exercicioReferenciaAbajurLampada.pdb
