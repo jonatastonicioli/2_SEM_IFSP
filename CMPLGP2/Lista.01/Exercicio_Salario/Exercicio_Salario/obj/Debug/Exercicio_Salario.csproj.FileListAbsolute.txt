@@ -1,0 +1,7 @@
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.01\Exercicio_Salario\Exercicio_Salario\obj\Debug\Exercicio_Salario.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.01\Exercicio_Salario\Exercicio_Salario\obj\Debug\Exercicio_Salario.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.01\Exercicio_Salario\Exercicio_Salario\bin\Debug\Exercicio_Salario.exe.config
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.01\Exercicio_Salario\Exercicio_Salario\bin\Debug\Exercicio_Salario.exe
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.01\Exercicio_Salario\Exercicio_Salario\bin\Debug\Exercicio_Salario.pdb
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.01\Exercicio_Salario\Exercicio_Salario\obj\Debug\Exercicio_Salario.exe
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Lista.01\Exercicio_Salario\Exercicio_Salario\obj\Debug\Exercicio_Salario.pdb

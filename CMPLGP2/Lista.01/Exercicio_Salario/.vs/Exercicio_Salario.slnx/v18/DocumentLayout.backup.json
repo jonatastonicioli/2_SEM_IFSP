@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.01\\Exercicio_Salario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2AA5B6-A950-42F9-899A-4DA6F614EF41}|Exercicio_Salario\\Exercicio_Salario.csproj|c:\\users\\lucas\\desktop\\2_sem_ifsp\\cmplgp2\\lista.01\\exercicio_salario\\exercicio_salario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2AA5B6-A950-42F9-899A-4DA6F614EF41}|Exercicio_Salario\\Exercicio_Salario.csproj|solutionrelative:exercicio_salario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2AA5B6-A950-42F9-899A-4DA6F614EF41}|Exercicio_Salario\\Exercicio_Salario.csproj|c:\\users\\lucas\\desktop\\2_sem_ifsp\\cmplgp2\\lista.01\\exercicio_salario\\exercicio_salario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2AA5B6-A950-42F9-899A-4DA6F614EF41}|Exercicio_Salario\\Exercicio_Salario.csproj|solutionrelative:exercicio_salario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.01\\Exercicio_Salario\\Exercicio_Salario\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_Salario\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.01\\Exercicio_Salario\\Exercicio_Salario\\Program.cs*",
+              "RelativeToolTip": "Exercicio_Salario\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T16:27:19.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.01\\Exercicio_Salario\\Exercicio_Salario\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Exercicio_Salario\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.01\\Exercicio_Salario\\Exercicio_Salario\\Funcionario.cs",
+              "RelativeToolTip": "Exercicio_Salario\\Funcionario.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv0AAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T16:28:20.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
