@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\Lista.02 (Front)\\Ex_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD283D-3713-44EE-897C-F9C7AC9973ED}|Ex_02\\Ex_02.csproj|c:\\users\\aluno\\downloads\\2_sem_ifsp\\cmplgp2\\lista.02 (front)\\ex_02\\ex_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD283D-3713-44EE-897C-F9C7AC9973ED}|Ex_02\\Ex_02.csproj|solutionrelative:ex_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD283D-3713-44EE-897C-F9C7AC9973ED}|Ex_02\\Ex_02.csproj|c:\\users\\aluno\\downloads\\2_sem_ifsp\\cmplgp2\\lista.02 (front)\\ex_02\\ex_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9ABD283D-3713-44EE-897C-F9C7AC9973ED}|Ex_02\\Ex_02.csproj|solutionrelative:ex_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD283D-3713-44EE-897C-F9C7AC9973ED}|Ex_02\\Ex_02.csproj|c:\\users\\aluno\\downloads\\2_sem_ifsp\\cmplgp2\\lista.02 (front)\\ex_02\\ex_02\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD283D-3713-44EE-897C-F9C7AC9973ED}|Ex_02\\Ex_02.csproj|solutionrelative:ex_02\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\Lista.02 (Front)\\Ex_02\\Ex_02\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ex_02\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\Lista.02 (Front)\\Ex_02\\Ex_02\\Form1.Designer.cs",
+              "RelativeToolTip": "Ex_02\\Form1.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T23:21:46.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\Lista.02 (Front)\\Ex_02\\Ex_02\\Form1.cs",
+              "RelativeDocumentMoniker": "Ex_02\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\Lista.02 (Front)\\Ex_02\\Ex_02\\Form1.cs",
+              "RelativeToolTip": "Ex_02\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T23:04:59.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\Lista.02 (Front)\\Ex_02\\Ex_02\\Form1.cs",
+              "RelativeDocumentMoniker": "Ex_02\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\2_SEM_IFSP\\CMPLGP2\\Lista.02 (Front)\\Ex_02\\Ex_02\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Ex_02\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T23:02:12.004Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
