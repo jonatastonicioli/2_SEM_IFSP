@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\2_SEM_IFSP\CMPLGP2\ContaBancaria\ContaBancariaAPP\ContaBancariaAPP\bin\Debug\ContaBancariaAPP.exe.config
+C:\Users\Aluno\Desktop\2_SEM_IFSP\CMPLGP2\ContaBancaria\ContaBancariaAPP\ContaBancariaAPP\bin\Debug\ContaBancariaAPP.exe
+C:\Users\Aluno\Desktop\2_SEM_IFSP\CMPLGP2\ContaBancaria\ContaBancariaAPP\ContaBancariaAPP\bin\Debug\ContaBancariaAPP.pdb
+C:\Users\Aluno\Desktop\2_SEM_IFSP\CMPLGP2\ContaBancaria\ContaBancariaAPP\ContaBancariaAPP\obj\Debug\ContaBancariaAPP.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\2_SEM_IFSP\CMPLGP2\ContaBancaria\ContaBancariaAPP\ContaBancariaAPP\obj\Debug\ContaBancariaAPP.FrmMain.resources
+C:\Users\Aluno\Desktop\2_SEM_IFSP\CMPLGP2\ContaBancaria\ContaBancariaAPP\ContaBancariaAPP\obj\Debug\ContaBancariaAPP.Properties.Resources.resources
+C:\Users\Aluno\Desktop\2_SEM_IFSP\CMPLGP2\ContaBancaria\ContaBancariaAPP\ContaBancariaAPP\obj\Debug\ContaBancariaAPP.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\2_SEM_IFSP\CMPLGP2\ContaBancaria\ContaBancariaAPP\ContaBancariaAPP\obj\Debug\ContaBancariaAPP.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\2_SEM_IFSP\CMPLGP2\ContaBancaria\ContaBancariaAPP\ContaBancariaAPP\obj\Debug\ContaBancariaAPP.exe
+C:\Users\Aluno\Desktop\2_SEM_IFSP\CMPLGP2\ContaBancaria\ContaBancariaAPP\ContaBancariaAPP\obj\Debug\ContaBancariaAPP.pdb

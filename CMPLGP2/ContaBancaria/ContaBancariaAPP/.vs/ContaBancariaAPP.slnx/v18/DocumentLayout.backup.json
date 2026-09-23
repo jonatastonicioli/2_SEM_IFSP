@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\ContaBancaria\\ContaBancariaAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820B70D5-45FB-4ACC-9A03-463D75989B53}|ContaBancariaAPP\\ContaBancariaAPP.csproj|c:\\users\\aluno\\desktop\\2_sem_ifsp\\cmplgp2\\contabancaria\\contabancariaapp\\contabancariaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820B70D5-45FB-4ACC-9A03-463D75989B53}|ContaBancariaAPP\\ContaBancariaAPP.csproj|solutionrelative:contabancariaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820B70D5-45FB-4ACC-9A03-463D75989B53}|ContaBancariaAPP\\ContaBancariaAPP.csproj|c:\\users\\aluno\\desktop\\2_sem_ifsp\\cmplgp2\\contabancaria\\contabancariaapp\\contabancariaapp\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820B70D5-45FB-4ACC-9A03-463D75989B53}|ContaBancariaAPP\\ContaBancariaAPP.csproj|solutionrelative:contabancariaapp\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820B70D5-45FB-4ACC-9A03-463D75989B53}|ContaBancariaAPP\\ContaBancariaAPP.csproj|c:\\users\\aluno\\desktop\\2_sem_ifsp\\cmplgp2\\contabancaria\\contabancariaapp\\contabancariaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{820B70D5-45FB-4ACC-9A03-463D75989B53}|ContaBancariaAPP\\ContaBancariaAPP.csproj|solutionrelative:contabancariaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\ContaBancaria\\ContaBancariaAPP\\ContaBancariaAPP\\Form1.cs",
+              "RelativeDocumentMoniker": "ContaBancariaAPP\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\ContaBancaria\\ContaBancariaAPP\\ContaBancariaAPP\\Form1.cs",
+              "RelativeToolTip": "ContaBancariaAPP\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEEAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T23:09:41.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\ContaBancaria\\ContaBancariaAPP\\ContaBancariaAPP\\Form1.cs",
+              "RelativeDocumentMoniker": "ContaBancariaAPP\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\ContaBancaria\\ContaBancariaAPP\\ContaBancariaAPP\\Form1.cs [Design]",
+              "RelativeToolTip": "ContaBancariaAPP\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T22:42:15.32Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\ContaBancaria\\ContaBancariaAPP\\ContaBancariaAPP\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ContaBancariaAPP\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\ContaBancaria\\ContaBancariaAPP\\ContaBancariaAPP\\ContaBancaria.cs",
+              "RelativeToolTip": "ContaBancariaAPP\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T23:07:26.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

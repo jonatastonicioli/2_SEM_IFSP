@@ -1,0 +1,5 @@
+panel
+label
+radiobutton - propriedade checked
+button
+textbox - propriedade enable como false o usurio nn consegue digitar
