@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.03\\FahrenheitParaCelsius\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F25675F2-950D-4F79-A9B2-F3A56A404FA2}|FahrenheitParaCelsius\\FahrenheitParaCelsius.csproj|c:\\users\\aluno\\desktop\\2_sem_ifsp\\cmplgp2\\lista.03\\fahrenheitparacelsius\\fahrenheitparacelsius\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25675F2-950D-4F79-A9B2-F3A56A404FA2}|FahrenheitParaCelsius\\FahrenheitParaCelsius.csproj|solutionrelative:fahrenheitparacelsius\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25675F2-950D-4F79-A9B2-F3A56A404FA2}|FahrenheitParaCelsius\\FahrenheitParaCelsius.csproj|c:\\users\\aluno\\desktop\\2_sem_ifsp\\cmplgp2\\lista.03\\fahrenheitparacelsius\\fahrenheitparacelsius\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25675F2-950D-4F79-A9B2-F3A56A404FA2}|FahrenheitParaCelsius\\FahrenheitParaCelsius.csproj|solutionrelative:fahrenheitparacelsius\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25675F2-950D-4F79-A9B2-F3A56A404FA2}|FahrenheitParaCelsius\\FahrenheitParaCelsius.csproj|C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.03\\FahrenheitParaCelsius\\fahrenheitparacelsius\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F25675F2-950D-4F79-A9B2-F3A56A404FA2}|FahrenheitParaCelsius\\FahrenheitParaCelsius.csproj|solutionrelative:fahrenheitparacelsius\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.03\\FahrenheitParaCelsius\\FahrenheitParaCelsius\\Form1.cs",
+              "RelativeDocumentMoniker": "FahrenheitParaCelsius\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.03\\FahrenheitParaCelsius\\FahrenheitParaCelsius\\Form1.cs",
+              "RelativeToolTip": "FahrenheitParaCelsius\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T23:10:16.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.03\\FahrenheitParaCelsius\\FahrenheitParaCelsius\\Form1.cs",
+              "RelativeDocumentMoniker": "FahrenheitParaCelsius\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.03\\FahrenheitParaCelsius\\FahrenheitParaCelsius\\Form1.cs [Design]",
+              "RelativeToolTip": "FahrenheitParaCelsius\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T23:07:29.94Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.03\\FahrenheitParaCelsius\\FahrenheitParaCelsius\\Calculadora.cs",
+              "RelativeDocumentMoniker": "FahrenheitParaCelsius\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Lista.03\\FahrenheitParaCelsius\\FahrenheitParaCelsius\\Calculadora.cs",
+              "RelativeToolTip": "FahrenheitParaCelsius\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T23:13:23.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
