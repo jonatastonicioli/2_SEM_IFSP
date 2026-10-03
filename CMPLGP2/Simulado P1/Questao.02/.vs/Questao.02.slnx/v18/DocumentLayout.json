@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Simulado P1\\Questao.02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F44F6468-9097-4D95-9F8F-DA1DE856FBB2}|Questao.02\\Questao.02.csproj|C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Simulado P1\\Questao.02\\questao.02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44F6468-9097-4D95-9F8F-DA1DE856FBB2}|Questao.02\\Questao.02.csproj|solutionrelative:questao.02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44F6468-9097-4D95-9F8F-DA1DE856FBB2}|Questao.02\\Questao.02.csproj|c:\\users\\lucas\\desktop\\2_sem_ifsp\\cmplgp2\\simulado p1\\questao.02\\questao.02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F44F6468-9097-4D95-9F8F-DA1DE856FBB2}|Questao.02\\Questao.02.csproj|solutionrelative:questao.02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Simulado P1\\Questao.02\\Questao.02\\Form1.cs",
+              "RelativeDocumentMoniker": "Questao.02\\Form1.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Simulado P1\\Questao.02\\Questao.02\\Form1.cs",
+              "RelativeToolTip": "Questao.02\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T20:14:47.536Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Simulado P1\\Questao.02\\Questao.02\\Form1.cs",
+              "RelativeDocumentMoniker": "Questao.02\\Form1.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Simulado P1\\Questao.02\\Questao.02\\Form1.cs [Design]",
+              "RelativeToolTip": "Questao.02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T21:15:55.338Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

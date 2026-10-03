@@ -1,0 +1,7 @@
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1\Questao_01dnv\Questao_01dnv\bin\Debug\Questao_01dnv.exe.config
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1\Questao_01dnv\Questao_01dnv\bin\Debug\Questao_01dnv.exe
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1\Questao_01dnv\Questao_01dnv\bin\Debug\Questao_01dnv.pdb
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1\Questao_01dnv\Questao_01dnv\obj\Debug\Questao_01dnv.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1\Questao_01dnv\Questao_01dnv\obj\Debug\Questao_01dnv.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1\Questao_01dnv\Questao_01dnv\obj\Debug\Questao_01dnv.exe
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1\Questao_01dnv\Questao_01dnv\obj\Debug\Questao_01dnv.pdb
