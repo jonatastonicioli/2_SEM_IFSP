@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Simulado P1_cola\\Questao_01 (Cofrinho)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48FB3EF-166F-4B0C-B812-BD867DE6AF7D}|Questao_01 (Cofrinho)\\Questao_01 (Cofrinho).csproj|c:\\users\\lucas\\desktop\\2_sem_ifsp\\cmplgp2\\simulado p1_cola\\questao_01 (cofrinho)\\questao_01 (cofrinho)\\cofrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48FB3EF-166F-4B0C-B812-BD867DE6AF7D}|Questao_01 (Cofrinho)\\Questao_01 (Cofrinho).csproj|solutionrelative:questao_01 (cofrinho)\\cofrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48FB3EF-166F-4B0C-B812-BD867DE6AF7D}|Questao_01 (Cofrinho)\\Questao_01 (Cofrinho).csproj|c:\\users\\lucas\\desktop\\2_sem_ifsp\\cmplgp2\\simulado p1_cola\\questao_01 (cofrinho)\\questao_01 (cofrinho)\\moeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48FB3EF-166F-4B0C-B812-BD867DE6AF7D}|Questao_01 (Cofrinho)\\Questao_01 (Cofrinho).csproj|solutionrelative:questao_01 (cofrinho)\\moeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48FB3EF-166F-4B0C-B812-BD867DE6AF7D}|Questao_01 (Cofrinho)\\Questao_01 (Cofrinho).csproj|c:\\users\\lucas\\desktop\\2_sem_ifsp\\cmplgp2\\simulado p1_cola\\questao_01 (cofrinho)\\questao_01 (cofrinho)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48FB3EF-166F-4B0C-B812-BD867DE6AF7D}|Questao_01 (Cofrinho)\\Questao_01 (Cofrinho).csproj|solutionrelative:questao_01 (cofrinho)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cofrinho.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Simulado P1_cola\\Questao_01 (Cofrinho)\\Questao_01 (Cofrinho)\\Cofrinho.cs",
+              "RelativeDocumentMoniker": "Questao_01 (Cofrinho)\\Cofrinho.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Simulado P1_cola\\Questao_01 (Cofrinho)\\Questao_01 (Cofrinho)\\Cofrinho.cs",
+              "RelativeToolTip": "Questao_01 (Cofrinho)\\Cofrinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:50:57.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moeda.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Simulado P1_cola\\Questao_01 (Cofrinho)\\Questao_01 (Cofrinho)\\Moeda.cs",
+              "RelativeDocumentMoniker": "Questao_01 (Cofrinho)\\Moeda.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Simulado P1_cola\\Questao_01 (Cofrinho)\\Questao_01 (Cofrinho)\\Moeda.cs",
+              "RelativeToolTip": "Questao_01 (Cofrinho)\\Moeda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:43:13.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Simulado P1_cola\\Questao_01 (Cofrinho)\\Questao_01 (Cofrinho)\\Program.cs",
+              "RelativeDocumentMoniker": "Questao_01 (Cofrinho)\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Simulado P1_cola\\Questao_01 (Cofrinho)\\Questao_01 (Cofrinho)\\Program.cs",
+              "RelativeToolTip": "Questao_01 (Cofrinho)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:42:18.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

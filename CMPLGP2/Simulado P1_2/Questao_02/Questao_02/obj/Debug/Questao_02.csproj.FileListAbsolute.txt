@@ -1,0 +1,10 @@
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1_2\Questao_02\Questao_02\bin\Debug\Questao_02.exe.config
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1_2\Questao_02\Questao_02\bin\Debug\Questao_02.exe
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1_2\Questao_02\Questao_02\bin\Debug\Questao_02.pdb
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1_2\Questao_02\Questao_02\obj\Debug\Questao_02.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1_2\Questao_02\Questao_02\obj\Debug\Questao_02.Form1.resources
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1_2\Questao_02\Questao_02\obj\Debug\Questao_02.Properties.Resources.resources
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1_2\Questao_02\Questao_02\obj\Debug\Questao_02.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1_2\Questao_02\Questao_02\obj\Debug\Questao_02.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1_2\Questao_02\Questao_02\obj\Debug\Questao_02.exe
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Simulado P1_2\Questao_02\Questao_02\obj\Debug\Questao_02.pdb
