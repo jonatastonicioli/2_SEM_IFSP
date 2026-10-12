@@ -1,0 +1,68 @@
+DROP SCHEMA IF EXISTS exAula_09;
+
+CREATE SCHEMA exAula_09;
+
+USE exAula_09;
+
+CREATE TABLE pessoa (
+id INT PRIMARY KEY AUTO_INCREMENT,
+nome VARCHAR(50) NOT NULL,
+cidade VARCHAR(50) NOT NULL,
+cpf CHAR(11) NOT NULL UNIQUE, #NOT NULL UNIQUE = CHAVE ALTERNATIVA
+rg char(9) NOT NULL UNIQUE #NOT NULL UNIQUE = CHAVE ALTERNATIVA
+);
+
+CREATE TABLE medico (
+pessoa_id INT NOT NULL,
+especialidade VARCHAR(50),
+PRIMARY KEY (pessoa_id),
+FOREIGN KEY (pessoa_id) REFERENCES pessoa (id)
+	ON UPDATE CASCADE # se um id for alterado na tabela pessoa sera alterado automaticamente na tabela medico
+    ON DELETE RESTRICT #um id não pode ser deletado na tabela pessoa se estiver na tabela medico
+);
+
+CREATE TABLE paciente(
+pessoa_id INT NOT NULL,
+doenca VARCHAR(50),
+PRIMARY KEY (pessoa_id),
+FOREIGN KEY (pessoa_id) REFERENCES pessoa(id)
+	ON UPDATE CASCADE # se um id for alterado na tabela pessoa sera alterado automaticamente na tabela paciente
+    ON DELETE RESTRICT #um id não pode ser deletado na tabela pessoa se estiver na tabela paciente
+);
+
+CREATE TABLE consulta (
+medico_id INT NOT NULL,
+paciente_id INT NOT NULL,
+data_hora DATETIME NOT NULL,
+PRIMARY KEY(medico_id, paciente_id), #chaves primarias na mesma clausula
+FOREIGN KEY (medico_id) REFERENCES medico(pessoa_id)
+	ON UPDATE CASCADE #se um id for alterado na tabela medico tb sera alterado na tabela consulta
+    ON DELETE RESTRICT,  # se houver uma consulta com um medico_id, esse id nao podera ser deletado na tabela medico
+FOREIGN KEY (paciente_id) REFERENCES paciente(pessoa_id)
+	ON UPDATE CASCADE 
+    ON DELETE RESTRICT
+);
+
+CREATE TABLE conta(
+id INT PRIMARY KEY AUTO_INCREMENT,
+numero VARCHAR(10) NOT NULL,
+agencia VARCHAR(10) NOT NULL,
+saldo DECIMAL(12,2) NOT NULL, #FLOAT??:
+pessoa_id INT NOT NULL,
+FOREIGN KEY (pessoa_id) REFERENCES pessoa (id)
+	ON DELETE RESTRICT
+    ON UPDATE CASCADE
+);
+
+CREATE UNIQUE INDEX idx_numero_agencia ON conta (numero,agencia);
+CREATE INDEX idx_nome ON pessoa (nome); #nome não é UNIQUE
+
+ALTER TABLE consulta DROP COLUMN data_hora;
+ALTER TABLE consulta ADD COLUMN datac DATE NOT NULL;
+ALTER TABLE consulta ADD COLUMN horac TIME NOT NULL;
+
+
+
+
+
+	
