@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Try_Catch\\ContaBancariaTryCatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A445514-F148-47A2-9F18-20BD2ED27B96}|ContaBancariaTryCatch\\ContaBancariaTryCatch.csproj|C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Try_Catch\\ContaBancariaTryCatch\\contabancariatrycatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A445514-F148-47A2-9F18-20BD2ED27B96}|ContaBancariaTryCatch\\ContaBancariaTryCatch.csproj|solutionrelative:contabancariatrycatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A445514-F148-47A2-9F18-20BD2ED27B96}|ContaBancariaTryCatch\\ContaBancariaTryCatch.csproj|c:\\users\\lucas\\desktop\\2_sem_ifsp\\cmplgp2\\try_catch\\contabancariatrycatch\\contabancariatrycatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A445514-F148-47A2-9F18-20BD2ED27B96}|ContaBancariaTryCatch\\ContaBancariaTryCatch.csproj|solutionrelative:contabancariatrycatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A445514-F148-47A2-9F18-20BD2ED27B96}|ContaBancariaTryCatch\\ContaBancariaTryCatch.csproj|C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Try_Catch\\ContaBancariaTryCatch\\contabancariatrycatch\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A445514-F148-47A2-9F18-20BD2ED27B96}|ContaBancariaTryCatch\\ContaBancariaTryCatch.csproj|solutionrelative:contabancariatrycatch\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Try_Catch\\ContaBancariaTryCatch\\ContaBancariaTryCatch\\Form1.cs",
+              "RelativeDocumentMoniker": "ContaBancariaTryCatch\\Form1.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Try_Catch\\ContaBancariaTryCatch\\ContaBancariaTryCatch\\Form1.cs*",
+              "RelativeToolTip": "ContaBancariaTryCatch\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T00:11:32.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Try_Catch\\ContaBancariaTryCatch\\ContaBancariaTryCatch\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ContaBancariaTryCatch\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Try_Catch\\ContaBancariaTryCatch\\ContaBancariaTryCatch\\ContaBancaria.cs",
+              "RelativeToolTip": "ContaBancariaTryCatch\\ContaBancaria.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAApwDkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T20:15:28.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Try_Catch\\ContaBancariaTryCatch\\ContaBancariaTryCatch\\Form1.cs",
+              "RelativeDocumentMoniker": "ContaBancariaTryCatch\\Form1.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\2_SEM_IFSP\\CMPLGP2\\Try_Catch\\ContaBancariaTryCatch\\ContaBancariaTryCatch\\Form1.cs [Design]*",
+              "RelativeToolTip": "ContaBancariaTryCatch\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T20:11:07.645Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

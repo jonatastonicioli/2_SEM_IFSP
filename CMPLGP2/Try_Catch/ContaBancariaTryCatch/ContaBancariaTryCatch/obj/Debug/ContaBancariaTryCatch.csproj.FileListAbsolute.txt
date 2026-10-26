@@ -1,0 +1,10 @@
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Try_Catch\ContaBancariaTryCatch\ContaBancariaTryCatch\obj\Debug\ContaBancariaTryCatch.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Try_Catch\ContaBancariaTryCatch\ContaBancariaTryCatch\obj\Debug\ContaBancariaTryCatch.Form1.resources
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Try_Catch\ContaBancariaTryCatch\ContaBancariaTryCatch\obj\Debug\ContaBancariaTryCatch.Properties.Resources.resources
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Try_Catch\ContaBancariaTryCatch\ContaBancariaTryCatch\obj\Debug\ContaBancariaTryCatch.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Try_Catch\ContaBancariaTryCatch\ContaBancariaTryCatch\obj\Debug\ContaBancariaTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Try_Catch\ContaBancariaTryCatch\ContaBancariaTryCatch\bin\Debug\ContaBancariaTryCatch.exe.config
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Try_Catch\ContaBancariaTryCatch\ContaBancariaTryCatch\bin\Debug\ContaBancariaTryCatch.exe
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Try_Catch\ContaBancariaTryCatch\ContaBancariaTryCatch\bin\Debug\ContaBancariaTryCatch.pdb
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Try_Catch\ContaBancariaTryCatch\ContaBancariaTryCatch\obj\Debug\ContaBancariaTryCatch.exe
+C:\Users\lucas\Desktop\2_SEM_IFSP\CMPLGP2\Try_Catch\ContaBancariaTryCatch\ContaBancariaTryCatch\obj\Debug\ContaBancariaTryCatch.pdb
