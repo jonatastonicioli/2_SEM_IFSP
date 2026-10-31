@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\Aula_27.10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBE706C-3367-4CE3-AB0B-61BA93D8FCD1}|Aula_27.10\\Aula_27.10.csproj|c:\\users\\aluno\\downloads\\aula_27.10\\aula_27.10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBE706C-3367-4CE3-AB0B-61BA93D8FCD1}|Aula_27.10\\Aula_27.10.csproj|solutionrelative:aula_27.10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBE706C-3367-4CE3-AB0B-61BA93D8FCD1}|Aula_27.10\\Aula_27.10.csproj|c:\\users\\aluno\\downloads\\aula_27.10\\aula_27.10\\errocriticoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBE706C-3367-4CE3-AB0B-61BA93D8FCD1}|Aula_27.10\\Aula_27.10.csproj|solutionrelative:aula_27.10\\errocriticoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Aula_27.10\\Aula_27.10\\Program.cs",
+              "RelativeDocumentMoniker": "Aula_27.10\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Aula_27.10\\Aula_27.10\\Program.cs",
+              "RelativeToolTip": "Aula_27.10\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T22:43:36.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErroCriticoException.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Aula_27.10\\Aula_27.10\\ErroCriticoException.cs",
+              "RelativeDocumentMoniker": "Aula_27.10\\ErroCriticoException.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Aula_27.10\\Aula_27.10\\ErroCriticoException.cs",
+              "RelativeToolTip": "Aula_27.10\\ErroCriticoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T23:45:08.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
